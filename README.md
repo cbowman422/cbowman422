@@ -5,10 +5,10 @@ With a passion for art and a degree in mechanical engineering. Some of my hobbie
 ```
 ## Tecnical Skills
 
-Languages - Typescript | Python | JavaScript | SQL | Mongo | JSON | EJS | HTML | CSS | MATLAB | Arduino
-Databases - PostgreSQL | MongoDB
-Libraries and Frameworks - React.js | Express.js | Django | Flask
-Interpersonal Skills - Communication Skills | Collaboration
+- Languages: Typescript | Python | JavaScript | SQL | Mongo | JSON | EJS | HTML | CSS | MATLAB | Arduino
+- Databases: PostgreSQL | MongoDB
+- Libraries and Frameworks: React.js | Express.js | Django | Flask
+- Interpersonal Skills: Communication Skills | Collaboration
 
 <!--
 **cbowman422/cbowman422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
