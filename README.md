@@ -1,4 +1,4 @@
-## Chirstopher Bowman Github
+## Welcome to Christopher Bowman's Github!
 
 ```bash
 With a passion for art and a degree in mechanical engineering. Some of my hobbies besides programming include painting, mathematics, being a good role model for my dog, creating music, rock climbing, skiing, and martial arts.
