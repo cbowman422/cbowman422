@@ -1,5 +1,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&locale=en" alt="cbowman422" /></p>
 
+## About Christopher Bowman Full-Stack Developer
 ```bash
 With a passion for art and a degree in mechanical engineering. Some of my hobbies besides programming include painting, mathematics, being a good role model for my dog, creating music, rock climbing, skiing, and martial arts.
 ```
