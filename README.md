@@ -1,4 +1,4 @@
-## Welcome to Christopher Bowman's Github!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&locale=en" alt="cbowman422" /></p>
 
 ```bash
 With a passion for art and a degree in mechanical engineering. Some of my hobbies besides programming include painting, mathematics, being a good role model for my dog, creating music, rock climbing, skiing, and martial arts.
@@ -10,8 +10,6 @@ With a passion for art and a degree in mechanical engineering. Some of my hobbie
 - Libraries and Frameworks: React.js | Express.js | Django | Flask
 - Interpersonal Skills: Communication Skills | Collaboration
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&locale=en" alt="cbowman422" /></p>
 
 <!--
 **cbowman422/cbowman422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
