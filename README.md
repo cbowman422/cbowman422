@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="cbowman422" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&theme=dark&title_color=e6e6e6&text_color=e6e6e6&locale=en" alt="cbowman422" /></p>
 
 ## About 
 ```bash
