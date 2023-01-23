@@ -2,7 +2,7 @@
 
 ## About 
 ```bash
-With a passion for art and a degree in mechanical engineering. Some of my hobbies besides programming include painting, mathematics, being a good role model for my dog, creating music, rock climbing, skiing, and martial arts.
+Full-stack developer, incorporating experience in software and mechanical engineering. Creative, highly-motivated, and adaptable professional able to work with internal and external stakeholders to create useful and user-friendly applications. Outside of work, I enjoy painting, creating music, and spending time outdoors. 
 ```
 ## Tecnical Skills
 
