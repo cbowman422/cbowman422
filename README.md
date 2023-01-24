@@ -2,7 +2,7 @@
 
 ## About 
 ```bash
-Full-stack developer, incorporating experience in software and mechanical engineering. Creative, highly-motivated, and adaptable professional able to work with stakeholders to create useful and user-friendly applications. Outside of work, I enjoy painting, creating music, and spending time outdoors. 
+Full-stack developer, incorporating experience in software and mechanical engineering. Creative, highly-motivated, and adaptable professional able to work with stakeholders to create useful and user-friendly applications. Outside of work, I enjoy painting, creating music, and spending time outdoors with my dog. 
 ```
 ## Tecnical Skills
 
