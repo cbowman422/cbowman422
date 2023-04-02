@@ -12,7 +12,7 @@ Full stack developer, incorporating experience in software and mechanical engine
 
 - Languages: Typescript | Python | JavaScript | SQL | Mongo | JSON | EJS | HTML | CSS | MATLAB | Arduino
 - Databases: PostgreSQL | MongoDB
-- Libraries and Frameworks: React.js | Express.js | Django | Flask
+- Libraries and Frameworks: React.js | Express.js | Django
 - Interpersonal Skills: Communication Skills | Collaboration
 
 
