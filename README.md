@@ -2,7 +2,7 @@
 
 ## About 
 
-🌱 I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/Money-Mania-Frontend)
+🌱   I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/Money-Mania-Frontend)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&theme=dark&title_color=bdbdbd&text_color=bdbdbd&locale=en" alt="cbowman422" /></p>
 
