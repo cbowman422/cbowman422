@@ -11,7 +11,7 @@ Software developer specializing in full stack JavaScript technologies. Obtained 
 
 - Languages: JavaScript | Python | SQL | Mongo | JSON | EJS | HTML | CSS 
 - Libraries and Frameworks: React.js | Express.js | Django | Flask
-- - Databases: PostgreSQL | MongoDB
+- Databases: PostgreSQL | MongoDB
 
 ## Github Stats
 
