@@ -4,11 +4,9 @@
 
 ## About 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&theme=dark&title_color=bdbdbd&text_color=bdbdbd&locale=en" alt="cbowman422" /></p>
+Software developer specializing in full stack JavaScript technologies. Obtained a Software Engineering Immersive certificate from General Assembly. Worked on multiple teams to develop full stack applications to provide unique perspectives and experience. Prior to software development I completed my Bachelors degree in Mechanical Engineering from the University of Massachusetts, Amherst and worked as a Structural Engineer for General Dynamics. Looking to leverage my unique experiences and knowledge in software development to ensure the delivery of quality products.
 
-```bash
-Full stack developer, incorporating experience in software, mathematics, and engineering. Creative, highly-motivated, and adaptable professional able to work with stakeholders to create useful and user-friendly applications. Outside of work, I enjoy painting, creating music, and spending time outdoors with my dog. 
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&theme=dark&title_color=bdbdbd&text_color=bdbdbd&locale=en" alt="cbowman422" /></p>
 
 ## Tecnical Skills
 
