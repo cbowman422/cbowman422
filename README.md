@@ -5,7 +5,7 @@
 
 ## About 
 
-Software engineer specializing in full stack JavaScript technologies. Worked on multiple teams to develop full stack applications to provide unique perspectives and experience. Prior to software development I completed my Bachelors degree in Mechanical Engineering from the University of Massachusetts, Amherst and worked as a Structural Engineer for General Dynamics. Looking to leverage my unique experiences and knowledge in software development to ensure the delivery of quality products.
+Software engineer specializing in full stack JavaScript technologies. Worked on multiple teams to develop full stack applications. Prior to software development I have experience in mechanical engineering. Dedicated to leveraging my unique background and knowledge in software development to ensure the delivery of quality products.
 
 ## Tecnical Skills
 
