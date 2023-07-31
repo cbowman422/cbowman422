@@ -9,9 +9,9 @@ Software engineer specializing in full stack JavaScript technologies. Worked on 
 
 ## Tecnical Skills
 
-- Languages: JavaScript | Python | SQL | Mongo | JSON | EJS | HTML | CSS 
-- Libraries and Frameworks: React.js | Express.js | Django | Flask
-- Databases: AWS | PostgreSQL | MongoDB
+JavaScript | Python | SQL | Mongo | JSON | EJS | HTML | CSS 
+React.js | Express.js | Django | Flask
+AWS | PostgreSQL | MongoDB
 
 ## Github Stats
 
