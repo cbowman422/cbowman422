@@ -1,6 +1,6 @@
 ## 👋 Hello and Welcome !
 
-🌱   I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping) and a SpaceLabs DevOps Engineering Team.
+🌱   I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping) and SpaceLabs DevOps.
 
 
 ## About 
