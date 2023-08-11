@@ -10,7 +10,7 @@ Software engineer specializing in full stack JavaScript technologies. Worked on 
 ## Tecnical Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css,webflow)](https://skillicons.dev) <br />
-[![My Libraries](https://skillicons.dev/icons?i=react,express,django,flask,figma)](https://skillicons.dev) <br />
+[![My Libraries](https://skillicons.dev/icons?i=react,next,express,django,flask,figma)](https://skillicons.dev) <br />
 [![My Libraries](https://skillicons.dev/icons?i=aws,postgres,mongodb)](https://skillicons.dev) <br />
 
 ## Github Stats
