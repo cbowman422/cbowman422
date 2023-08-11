@@ -5,7 +5,7 @@
 
 ## About 
 
-Software engineer specializing in full stack JavaScript technologies. Worked on multiple teams to develop full stack applications. Prior to software development I have experience in mechanical engineering. Dedicated to leveraging my unique background and knowledge in software development to ensure the delivery of quality products.
+Motivated software engineer with a strong focus on full stack JavaScript technologies. Contributed to multiple teams, collectively designing and developing full stack applications. Prior to software development I gained valuable experience in mechanical engineering. Committed to continuous learning and staying up-to-date with industry trends. Seeking to leverage my experience in software engineering to drive innovation and contribute to impactful projects.
 
 ## Tecnical Skills
 
