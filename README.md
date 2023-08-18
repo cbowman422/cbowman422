@@ -5,7 +5,7 @@
 
 ## About Me
 
-Motivated software engineer with a strong focus on full stack JavaScript technologies. Contributed to multiple teams, collectively designing and developing full stack applications. Prior to software development I gained valuable experience in mechanical engineering. Committed to continuous learning and staying up-to-date with industry trends. Seeking to leverage my experience in software engineering to drive innovation and contribute to impactful projects.
+Motivated full-stack software engineer with an aptitude for learning new skills quickly. Strong team player who has contributed to multiple teams and helped drive the design and development of many full-stack applications. Prior to software development, I gained valuable experience in solving difficult and ambiguous problems as a mechanical engineer. Motivated self-starter committed to continuous improvement and staying up-to-date with industry trends. Seeking to leverage my engineering experience to drive innovation and contribute to impactful projects.
 
 ## Tecnical Skills
 
