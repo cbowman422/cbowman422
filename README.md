@@ -1,6 +1,6 @@
 ## 👋 Hello and Welcome !
 
-### I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping) and NextGen Coders Adcademy's website.
+### I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping) and NextGen Coders Academy's website.
 
 
 ## About Me
