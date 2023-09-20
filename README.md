@@ -1,6 +1,6 @@
 ## 👋 Hello and Welcome !
 
-### I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), NextGen's frontend app, and learning Java.
+### I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), NextGen's frontend app, and learning Java.
 
 
 ## About Me
