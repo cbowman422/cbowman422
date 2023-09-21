@@ -16,6 +16,4 @@ Motivated full-stack software engineer with an aptitude for learning new skills 
 ## Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&theme=dark&title_color=bdbdbd&text_color=bdbdbd&locale=en" alt="cbowman422" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbowman422)](https://github.com/cbowman422/github-readme-stats)
 --!>
