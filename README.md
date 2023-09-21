@@ -11,9 +11,3 @@ Tecnical Skills
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,ts,html,css,wordpress,webflow)](https://skillicons.dev) <br />
 [![My Libraries](https://skillicons.dev/icons?i=react,next,express,django,flask,figma)](https://skillicons.dev) <br />
 [![My Libraries](https://skillicons.dev/icons?i=aws,postgres,mongodb)](https://skillicons.dev) <br />
-
-<!--
-## Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbowman422&show_icons=true&theme=dark&title_color=bdbdbd&text_color=bdbdbd&locale=en" alt="cbowman422" /></p>
--->
-
