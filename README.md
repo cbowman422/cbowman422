@@ -1,10 +1,10 @@
 # 👋 Hello and Welcome!
 
-I'm currently working on [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), NextGen's frontend app, and learning Java.
+I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working as a software engineering freelancer, and learning C++.
 
 ## About Me
 
-Motivated full-stack software engineer with an aptitude for learning new skills quickly. Strong team player who has contributed to multiple teams and helped drive the design and development of many full-stack applications. Prior to software development, I gained valuable experience in solving difficult and ambiguous problems as a mechanical engineer. Motivated self-starter committed to continuous improvement and staying up-to-date with industry trends. Seeking to leverage my engineering experience to drive innovation and contribute to impactful projects.
+Software engineer with an aptitude for learning new skills quickly. Strong team player who has contributed to multiple teams and helped drive the design and development of many full-stack applications. In addition to software development, I gained valuable experience in solving difficult and ambiguous problems as a mechanical engineer. Motivated self-starter committed to continuous improvement and staying up-to-date with industry trends.
 
 ## Tecnical Skills
 
