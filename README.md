@@ -8,7 +8,7 @@ Software engineer with an aptitude for learning new skills quickly. Strong team 
 
 ## Tecnical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,java,cpp,html,css,wordpress,webflow)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=js,py,java,c,cpp,html,css,wordpress,webflow)](https://skillicons.dev) <br />
 [![My Libraries](https://skillicons.dev/icons?i=react,next,express,django,flask,figma)](https://skillicons.dev) <br />
 [![My Libraries](https://skillicons.dev/icons?i=aws,postgres,mongodb)](https://skillicons.dev) <br />
 
