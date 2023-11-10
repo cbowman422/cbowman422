@@ -1,6 +1,8 @@
 # 👋 Hello and Welcome!
 
-I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working as a software engineering freelancer, and learning C++.
+I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working as a software engineering freelancer, and tutoring veterans from the US Department of Veteran Affairs in C/C##.
+
+For a hobby I am building a video game with Unreal Engine 5, C++ and Abelton Live 11.
 
 ## About Me
 
