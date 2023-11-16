@@ -1,12 +1,12 @@
 # 👋 Hello and Welcome!
 
-I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working as a software engineering freelancer, and tutoring veterans from the US Department of Veteran Affairs in C/C#.
+I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working in freelance, and tutoring cadets at the United States Coast Guard Academy in Statics and Mechanics of Materials, as well as veterans from the US Department of Veteran Affairs in C/C#.
 
 For a hobby I am building a video game with Unreal Engine 5, C++ and Abelton Live 11.
 
 ## About Me
 
-Software engineer with an aptitude for learning new skills quickly. Strong team player who has contributed to multiple teams and helped drive the design and development of many full-stack applications. In addition to software development, I gained valuable experience in solving difficult and ambiguous problems as a mechanical engineer. Motivated self-starter committed to continuous improvement and staying up-to-date with industry trends.
+Mechanical engineer with a strong background in structural engineering, Finite Element Analysis (FEA) and software engineering who is passionate about aerospace and defense.
 
 ## Tecnical Skills
 
