@@ -1,6 +1,6 @@
 # 👋 Hello and Welcome!
 
-I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working in freelance, and tutoring cadets at the United States Coast Guard Academy in Statics and Mechanics of Materials, as well as veterans from the US Department of Veteran Affairs in C/C#.
+I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working in freelance, and tutoring cadets at the United States Coast Guard Academy in Statics and Mechanics of Materials, as well as veterans from the US Department of Veteran Affairs in Statics, Calc 3, Physics 2 and C/C#.
 
 For a hobby I am building a video game with Unreal Engine 5, C++ and Abelton Live 11.
 
