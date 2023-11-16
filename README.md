@@ -8,7 +8,7 @@ For a hobby I am building a video game with Unreal Engine 5, C++ and Abelton Liv
 
 Mechanical engineer with a strong background in structural engineering, Finite Element Analysis (FEA) and software engineering who is passionate about aerospace and defense.
 
-## Tecnical Skills
+## Tecnical Software Skills 
 
 [![My Skills](https://skillicons.dev/icons?i=js,py,java,c,cs,cpp,php,html,css,wordpress,webflow)](https://skillicons.dev) <br />
 [![My Libraries](https://skillicons.dev/icons?i=react,next,express,django,flask,figma)](https://skillicons.dev) <br />
