@@ -1,6 +1,6 @@
 # 👋 Hello and Welcome!
 
-I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working in freelance, and tutoring cadets at the United States Coast Guard Academy in Statics and Mechanics of Materials, as well as veterans from the US Department of Veteran Affairs in Statics, Calc 3, Physics 2 and C/C#.
+I'm currently working for [Scott's Landscaping, Inc.](https://github.com/cbowman422/scottslandscaping), working in freelance, and tutoring cadets at the United States Coast Guard Academy in Statics and Mechanics of Materials, as well as veterans from the US Department of Veteran Affairs in Statics, Calc 3, Physics 2, C/C++ Programming 2 and C/C# Programming.
 
 ## About Me
 
